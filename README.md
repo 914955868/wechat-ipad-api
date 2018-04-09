@@ -1,3 +1,5 @@
+## 注意，使用本文档的是骗子
+
 地址： api.batorange.com:11001/ws
 ## Request
 请求Json格式
